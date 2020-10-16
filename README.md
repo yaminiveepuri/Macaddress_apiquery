@@ -16,7 +16,9 @@ To run the image
   docker run docker_pythonapp
   
 The parameters are passed as Environment variables in dockerfile
+
   ENV api_key=at_bTYKJq4aE0mFQtEsBy9Wn9mHECU09 
+  
   ENV mac_address=44:38:39:ff:ef:57
  Default API key and MAC address are passed here
  
