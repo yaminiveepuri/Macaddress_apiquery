@@ -1,0 +1,13 @@
+{
+    "name": "docker_pythonapp",
+    "version": "1.0.0",
+    "description": "Assignment",
+    "author": "Yamini Veepuri",
+    "main": "assignment.py",
+    "scripts": {
+        "start": "python assignment.py"
+    },
+    "dependencies": {
+        "request": "^2.88.2"
+    }
+}
